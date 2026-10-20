@@ -1,0 +1,8 @@
+{
+  "name": "Panshop - Fürsət Məhsulları",
+  "description": "Panshop Azərbaycan marketplace üçün aktiv flaş kampaniyalar və həftəlik fürsət məhsulları səhifəsi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
